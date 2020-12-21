@@ -4,4 +4,4 @@
 
 
 ## reference
-referrence : https://www.sist.co.kr/index.do
+[쌍용교육센터](https://www.sist.co.kr/index.do)
